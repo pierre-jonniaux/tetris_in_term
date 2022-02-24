@@ -1,1 +1,1 @@
-# tetris_in_term
+# Un tetris qui se lance dans le terminal. Codé en python et utilise curses. 
